@@ -26,7 +26,7 @@
 ---
 ## 📬 联系方式
 
-- 📫 邮箱：[CoreRing@Outlook.com](mailto:CoreRing@Outlook.com)
+- 📫 邮箱：[churanneko@Outlook.com](mailto:churanneko@Outlook.com)
 
 ## 📬小群体
 
