@@ -5,28 +5,28 @@
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-stats-extended.vercel.app/api?username=CoreRing&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-stats-extended.vercel.app/api?username=KaguyaRing&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&&number_format=long&include_all_commits=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=CoreRing&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
+    <img width="400" src="https://github-readme-streak-stats-six-peach.vercel.app?user=KaguyaRing&theme=transparent&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j" alt="Streak Stats" title="Streak Stats" />
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CoreRing&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KaguyaRing&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/CoreRing"><img src="https://img.shields.io/badge/GitHub-CoreRing-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://space.bilibili.com/443211409"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-CoreRing-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://github.com/KaguyaRing"><img src="https://img.shields.io/badge/GitHub-KaguyaRing-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://space.bilibili.com/443211409"><img src="https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-KaguyaRing-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/CoreRing"><img src="https://komarev.com/ghpvc/?username=CoreRing&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <a href="https://github.com/KaguyaRing"><img src="https://komarev.com/ghpvc/?username=KaguyaRing&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
 <p align="center">
 
 ---
 ## 📬 联系方式
 
-- 📫 邮箱：[churanneko@Outlook.com](mailto:churanneko@Outlook.com)
+- 📫 邮箱：[KaguyaRing@Outlook.com](mailto:KaguyaRing@Outlook.com)
 
 ## 📬小群体
 
